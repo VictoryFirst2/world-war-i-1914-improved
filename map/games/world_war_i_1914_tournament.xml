@@ -525,6 +525,7 @@
 		<player name="Neutral_Central" optional="true" canBeDisabled="true"/>
 		<player name="Neutral_True" optional="true" canBeDisabled="true"/>
 		<player name="Changer" optional="true" canBeDisabled="true"/>
+		<player name="Shared" optional="true" canBeDisabled="true"/>
 		
 		<alliance player="AustroHungarians" alliance="Central Powers"/>
 		<alliance player="Germans" alliance="Central Powers"/>
